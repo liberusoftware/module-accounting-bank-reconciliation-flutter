@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-bank-reconciliation-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-bank-reconciliation",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_bank_reconciliation_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/bank-reconciliation.md",
+  "presentationPlan": "projects/accounting/flutter/bank-reconciliation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
